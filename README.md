@@ -1,16 +1,15 @@
-## Hi there 👋
+estudandealurastart/REAME.md
 
-<!--
-**helano-garcia/helano-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BOAS VINDAS NO MEU PERFIL
 
-Here are some ideas to get you started:
+Meu nome é helano garcia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.estou estudando o [alura]
+.estou me desenvolvendo na limguagem javascript
+.utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
+
+VOCÊ PODE ENTRAR EM CONTATO COMIGO
+
+[alurastartestudante@email.com
+
+@alurastartestudante
